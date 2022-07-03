@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design]([/src/design/Final-design.png](https://github.com/Omared250/countries_web_app/blob/master/src/design/Final-Design.png)
+![Design](https://github.com/Omared250/countries_web_app/blob/master/src/design/Final-Design.png)
 
 ### Links
 
