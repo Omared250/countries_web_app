@@ -19,7 +19,7 @@ class countryInfoView extends View {
         countryImg.forEach(img => img.classList.add('country__img__info'));
 
         if (this._body.classList.contains('body__dark')) {
-            this._modal.querySelector('.country').classList.add('dark__theme')
+            this._modal.querySelector('.country').classList.add('dark__theme');
         }
 
         this._overlay.classList.remove('hidden');
