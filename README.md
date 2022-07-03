@@ -45,12 +45,12 @@ Users should be able to:
 
 ### What I learned
 
-En este poryecto me pude familiarizar mas con las bases de JS y usar VANILLA JS, ya que al no utilizar ningun framework toda aquella parte dificil del codigo, que normalmente
-utilizamos un framework para solucionarlo requeria mas atencion y trabajo fuerte para brindar una solucion a todos aquellos desafios que se presentan
-mientras construimos un proyecto.
+In this project I was able to become more familiar with the basics of JS and use VANILLA JS, since by not using any framework all that difficult part of the code, which normally
+we used a framework to solve it, it required more attention and hard work to provide a solution to all those challenges that arise
+while we build a project.
 
-Asi mismo puedo decir que me he familiarizado mas con la DOM y como se manejas sus eventos y su comportamiento ayudandome a entender a mas profundidad
-como funcionan todo detras de escena usando JS.
+Likewise, I can say that I have become more familiar with the DOM and how its events and behavior are handled, helping me to understand it more deeply.
+how everything works behind the scenes using JS.
 
 ```js proud-of-this: 
   const controlInfoCountry = function(name) {
