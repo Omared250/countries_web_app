@@ -284,21 +284,6 @@ select:focus {
 }
 
 /* --------- CLASSES TO MAKE MODAL WORK ----------*/
-  
-.close-modal {
-    position: absolute;
-    top: 8%;
-    right: 38%;
-
-    font-size: 2rem;
-    color: var(--white);
-    cursor: pointer;
-    border: none;
-    background: none;
-
-    z-index: 11;
-}
-
 .hidden {
     display: none;
 }
@@ -308,9 +293,9 @@ select:focus {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: fit-content;
+    width: 29rem;
+    height: 29rem;
 
-    padding: 6rem;
     border-radius: 5px;
     z-index: 10;
 }

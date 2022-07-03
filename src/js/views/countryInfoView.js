@@ -32,7 +32,7 @@ class countryInfoView extends View {
             modal.classList.add('hidden');
             overlay.classList.add('hidden');
             parentElement.classList.remove('hidden');
-            
+
             const infoDetails = document.querySelectorAll('.info_details');
             infoDetails.forEach(h => {
                 h.classList.add('hidden')
