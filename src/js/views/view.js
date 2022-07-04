@@ -54,7 +54,7 @@ export default class View {
       const borders = this._data.neighbors ? this._data.neighbors.map(b => `<a class="country__row__border">${b}</a>`).join('') : ' none';
       return `
       <article class="country">
-          <img class="country__img" src=${this._data.flag} />
+          <img class="country__img" src=${this._data.flag} alt="country-${this._data.name}"/>
           <div class="country__data">
             <h3 class="country__name">${this._data.name}</h3>
             <h4 class="country__region">${this._data.region}</h4>

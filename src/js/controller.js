@@ -50,7 +50,7 @@ const controlRegionCountries = function(region) {
 
 const controlSearchCountry = function() {
     try {
-        const query = searchView.getQuery();
+        const query = searchView.getQuery().trim();
         if(!query) return
         const countryName = query.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
     
